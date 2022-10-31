@@ -169,5 +169,5 @@ form {
   background:rgb(51, 158, 51);
   color: inherit;
   border-radius: 2px;
-  cursor: pointer;
+  cursor:crosshair;
 }
